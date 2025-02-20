@@ -43,7 +43,7 @@ def to(s):
 
 
 to(
-    f"\033[31;m Script Type>> \033[1;36mold Location Tool 🔥\n\033[1;31m Telegram >>\033[1;33m@old\n\033[31;m Creator >>\033[1;33m@CDMAXX\n\033[31;m Tool Status >>\033[1;33mWorking\n\033[31;m Tool Value >>\033[1;33mPaid Script\n\033[31;m Time >>\033[1;33m6 month's\n\033[31;m")
+    f"\033[31;m Script Type>> \033[1;36mTEAM BLACK HAT Location Tool 🔥\n\033[1;31m Telegram >>\033[1;33m@oldhacker7866\n\033[31;m Creator >>\033[1;33mOLD-HACKER\n\033[31;m Tool Status >>\033[1;33mWorking\n\033[31;m Tool Value >>\033[1;33mPaid Script\n\033[31;m Time >>\033[1;33m6 month's\n\033[31;m")
 print('')
 print('\033[32;m')
 
